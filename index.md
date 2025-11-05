@@ -3,15 +3,13 @@ layout: cv
 title: Russell Blessing's CV
 ---
 # Russell Blessing
-Research Manager, Texas A&M University
+Independent Scholar
 
-Institute for a Disaster Resilient Texas, Division of Research<br/>
-4201 Main St, Houston, TX 77002<br/>
+918 Cherry Street, Missoula, MT 59802<br/>
 
-<a href="rblessing@tamu.edu">rblessing@tamu.edu</a>
+<a href="russellblessing@gmail.com">russellblessing@gmail.com</a>
 
 <div id="webaddress">
-  <a href="https://idrt.tamug.edu/team/"><i class="fas fa-users"></i> Institute for a Disaster Resilient Texas</a><br/>
   <a href="https://github.com/russellblessing"><i class="fab fa-github"></i> russellblessing</a> - 
   <a href="https://orcid.org/0000-0003-4973-4032"><i class="ai ai-orcid"></i> 0000-0003-4973-4032</a> - 
   <a href="https://www.researchgate.net/profile/Russell-Blessing"><i class="ai ai-researchgate"></i> researchgate</a> - 
@@ -30,8 +28,11 @@ Institute for a Disaster Resilient Texas, Division of Research<br/>
 **B.A., Environmental Studies (Biology minor)**, *Austin College*, Sherman, TX, USA.
 
 ## Experience (selected)
-`2021-Present`
+`2023-2024`
 **Research Manager**, *Vice President for Research, Texas A&M University*, Institute for a Disaster Resilient Texas, TX, USA.
+
+`2021-2023`
+**Associate Research Scientist**, *Department of Marine Sciences, Texas A&M University at Galveston*, Institute for a Disaster Resilient Texas, TX, USA.
 
 `2019-2021`
 **Assistant Research Scientist**, *Department of Marine Sciences, Texas A&M University at Galveston*, Institute for a Disaster Resilient Texas, TX, USA.
@@ -81,12 +82,17 @@ Regenerative Ecological Design, _Ecosa Institute_
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=rmxI87gAAAAJ&hl=en).
 
-### In review
-
-### Accepted/In press
 
 ### Peer-Reviewed Journal Articles
-Stephens, K. K., **Blessing, R.**, Tasuji, T., McGlone, M. S., Stearns, L. N., Lee, Y., & Brody, S. D. (2023). Investigating ways to better communicate flood risk: the tight coupling of perceived flood map usability and accuracy. _Environmental Hazards_, 1-20.
+### Accepted/In press
+
+Huang, L., Antolini, F., Mostafavi, A., **Blessing, R.**, Garcia, M., & Brody, S. D. (2025). High‐resolution flood probability mapping using generative machine learning with large‐scale synthetic precipitation and inundation data. *Computer‐Aided Civil and Infrastructure Engineering*.
+
+Ma, J., **Blessing, R.**, Brody, S., & Mostafavi, A. (2024). Non-locality and spillover effects of residential flood damage on community recovery: Insights from high-resolution flood claim and mobility data. *Sustainable Cities and Society*, *117*, 105947.
+
+Stephens, K. K., Varela Castro, S., Xu, Y., Juan, A., Diaz, N., **Blessing, R.**, & Brody, S. D. (2024). Rectifying a flood data desert one step at a time: a co-created, engaged scholarship approach. *Journal of Applied Communication Research*, *52*(3), 421-434.
+
+Stephens, K. K., **Blessing, R.**, Tasuji, T., McGlone, M. S., Stearns, L. N., Lee, Y., & Brody, S. D. (2024). Investigating ways to better communicate flood risk: the tight coupling of perceived flood map usability and accuracy. *Environmental Hazards*, 1-20.
 
 Yuan, F., Lee, C. C., Mobley, W., Farahmand, H., Xu, Y., **Blessing, R.**, & Brody, S. D. (2023). Predicting road flooding risk with crowdsourced reports and fine-grained traffic data. *Computational Urban Science*, *3*(1), 15.
 
@@ -132,7 +138,6 @@ Mobley, W., & Blessing, R. B. (2022). Using machine learning to predict flood ha
 **Blessing, R. B.**, & Sebastian, A. (2018). Out of Bounds: Rethinking U.S. Flood Risk Delineation. *EARTH Magazine*. [Link](https://tinyurl.com/yaxf46eq).
 
 ### Technical Reports & Professional Projects
-
 Rainey, J., Pandian, K., Stearns, L., Atoba, K., Mobley, W., Highfield, W., **Blessing, R. B.**, & Brody, S. (2021). Using 311-Call Data to Measure Flood Risk and Impacts: the case of Harris County TX. Texas A&M University. College Station, Texas.
 
 Sharp, J. (2018). Eye of the Storm: Report of the Governor’s Commission to Rebuild Texas. Texas A&M University. College Station, Texas. Contributing Author.
@@ -152,29 +157,31 @@ Landscape Architecture Foundation (LAF). (2010). Landscape Performance Series: A
 Neuman, M., **Blessing, R. B.**, Anderson-Wade, H., & Quaium, R. (2010). Sustainability Audit of the Tampa and Hillsborough, Florida Comprehensive Plans. Research Assistantship Deliverable. Department of Landscape Architecture and Urban Planning. College Station, TX.
 
 ## Conference activity
+Conference Proceedings (*&ast;*denotes speaker)
 
-### Proceedings
-&ast;Conference Proceedings (&ast;denotes speaker)
+Antolini, F.*&ast;*, Huang, L., Juan, A., & **Blessing, R. B.** (2024, June). MaxFloodCast: a Surrogate Model for Real-Time Flood Forecast Applications. In Water Science Conference (WaterSciCon24 (pp. 307-05).
+
+Taghinezhad, A., Friedland, C. J., Rohli, R. V., Brody, S., HighField, W., & **Blessing, R. B.** (2023, December). Quantifying Wind-Mitigation Benefits for Non-Residential Buildings Using Average Annual Loss Analysis. In *AGU Fall Meeting Abstracts* (Vol. 2023, No. 767, pp. NH41E-0767).
 
 Stephens, K. K., **Blessing, R. B.**, Tasuji, T., McGlone, M., Stearns, L. N., Lee, Y., & Brody, S. D. (2023). Investigating ways to better communicate flood risk: The tight coupling of perceived flood map usability and accuracy. Paper presented at the 2023 International Communication Association (ICA) Conference, Toronto, Canada.
 
 **Blessing, R. B.** (2022). Measuring, Mapping, and Managing Flood Risk. 2022 Texas Water Conservation Association Annual Convention, Fort Worth, TX.
 
-Mobley, W.&ast;, Sebastian, A., & **Blessing, R. B.** (2019). Random Forest Classification for Flood Hazard Mapping at Large Spatial Scales. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
+Mobley, W.*&ast;*, Sebastian, A., & **Blessing, R. B.** (2019). Random Forest Classification for Flood Hazard Mapping at Large Spatial Scales. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
 
-**Blessing, R. B.**&ast;, Sebastian, A., Highfield, W., & Brody, S. D. (2018). Measuring, Mapping and Managing Urban Flood Risk: A Pilot Program in Southeast Texas. 2018 American Geophysical Union: Fall Meeting, Washington, DC.
+**Blessing, R. B.***&ast;*, Sebastian, A., Highfield, W., & Brody, S. D. (2018). Measuring, Mapping and Managing Urban Flood Risk: A Pilot Program in Southeast Texas. 2018 American Geophysical Union: Fall Meeting, Washington, DC.
 
-Brody, S. D&ast;., **Blessing, R. B.**&ast;, & Highfield, W. E.&ast; (2017). Risk, Mitigation, and Planning: Lessons from Flooding in the Houston Area. 2017 Association of State Floodplain Managers Annual National conference, Kansas City, MO.
+Brody, S. D&ast;., **Blessing, R. B.***&ast;*, & Highfield, W. E.*&ast;* (2017). Risk, Mitigation, and Planning: Lessons from Flooding in the Houston Area. 2017 Association of State Floodplain Managers Annual National conference, Kansas City, MO.
 
-Sebastian, A.*, **Blessing, R. B.**, & Brody, S. D. (2016). Flood Risk Delineation in the U.S.: How much loss are we capturing? 2016 SSPEED Avoiding Disasters Conference: How to Reduce Impacts from the Next Big Storm, Houston, TX.
+Sebastian, A.*&ast;*, **Blessing, R. B.**, & Brody, S. D. (2016). Flood Risk Delineation in the U.S.: How much loss are we capturing? 2016 SSPEED Avoiding Disasters Conference: How to Reduce Impacts from the Next Big Storm, Houston, TX.
 
 Brody, S. D.&ast;, & **Blessing, R. B.** (2015). Examining Flood Risk, Loss, and Management for the Clear Creek Watershed in Southeast Texas: Lessons Learned for Developing Resilient Coastal Communities. 2015 World Environmental & Water Resources Congress, “Floods, Droughts, and Ecosystems: Managing Our Resources Despite Growing Demand and Diminishing Funds,” Austin, TX.
 
 Sebastian, A.&ast;, Brody, S. D., **Blessing, R. B.**, & Bedient, P. B. (2014). Evaluating the 100-year floodplain as an indicator of flood loss. 2014 World Environmental and Water Resources Congress, Portland, OR.
 
-Brody, S. D., **Blessing, R. B.**, & Sebastian, A.&ast; (2013). Predicting Land Use/Land Cover Change in Coastal Texas: Assessing Hazard Resiliency in Freeport, TX. 2013 APA Texas Chapter State Planning Conference, Galveston, TX.
+Brody, S. D., **Blessing, R. B.**, & Sebastian, A.*&ast;* (2013). Predicting Land Use/Land Cover Change in Coastal Texas: Assessing Hazard Resiliency in Freeport, TX. 2013 APA Texas Chapter State Planning Conference, Galveston, TX.
 
-**Blessing, R. B.**&ast;, Brody, S. D., Sebastian, A., & Bedient, P. B. (2012). Identifying Flood Risk and Vulnerability: Assessment of the Clear Creek Watershed. 2012 Severe Storm Prediction, Education, and Evacuation from Disasters Center Conference: Gulf Coast Hurricanes: Mitigation and Response, Houston, TX.
+**Blessing, R. B.***&ast;*, Brody, S. D., Sebastian, A., & Bedient, P. B. (2012). Identifying Flood Risk and Vulnerability: Assessment of the Clear Creek Watershed. 2012 Severe Storm Prediction, Education, and Evacuation from Disasters Center Conference: Gulf Coast Hurricanes: Mitigation and Response, Houston, TX.
 
 ### Posters
 
@@ -198,6 +205,8 @@ _Flood Risk Reduction Colloquium_.  Delft University of Technology. July 22-25, 
 _Adaptation to Sea Level Rise: Minimizing Risk to the Built, Natural and Economic Environments along the Texas Gulf Coast_. The University of Texas Marine Science Institute. September 18-19, 2012. Port Aransas, TX.
 
 ## Funded Projects
+`2024`
+_Co-Principal Investigator_. Texas General Land Office. $30,000,000. Texas Disaster Information System (TDIS).
 
 `2022-2025`
 _Co-Principal Investigator_. Texas General Land Office. $8,500,000. Texas Disaster Information System (TDIS).
@@ -276,6 +285,8 @@ PLAN 202:	Building Better Cities (Texas A&M University)
 | --------  | -------- | 
 | • Disasters <br/> • Hydrology & Earth System Sciences <br/> • Journal of Environmental Management | • Natural Hazards Review <br/> • Water | 
 
-<br/>Last updated: June 2023<br/><br/>
+<br/>Last updated: November 2025<br/><br/>
+
+
 
 
