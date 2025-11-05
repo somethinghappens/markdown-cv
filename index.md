@@ -157,9 +157,9 @@ Landscape Architecture Foundation (LAF). (2010). Landscape Performance Series: A
 Neuman, M., **Blessing, R. B.**, Anderson-Wade, H., & Quaium, R. (2010). Sustainability Audit of the Tampa and Hillsborough, Florida Comprehensive Plans. Research Assistantship Deliverable. Department of Landscape Architecture and Urban Planning. College Station, TX.
 
 ## Conference activity
-Conference Proceedings (`*`denotes speaker)
+Conference Proceedings (\*denotes speaker)
 
-Antolini, F.`*`, Huang, L., Juan, A., & **Blessing, R. B.** (2024, June). MaxFloodCast: a Surrogate Model for Real-Time Flood Forecast Applications. In Water Science Conference (WaterSciCon24 (pp. 307-05).
+Antolini, F.\*, Huang, L., Juan, A., & **Blessing, R. B.** (2024, June). MaxFloodCast: a Surrogate Model for Real-Time Flood Forecast Applications. In Water Science Conference (WaterSciCon24 (pp. 307-05).
 
 Taghinezhad, A., Friedland, C. J., Rohli, R. V., Brody, S., HighField, W., & **Blessing, R. B.** (2023, December). Quantifying Wind-Mitigation Benefits for Non-Residential Buildings Using Average Annual Loss Analysis. In *AGU Fall Meeting Abstracts* (Vol. 2023, No. 767, pp. NH41E-0767).
 
@@ -167,21 +167,21 @@ Stephens, K. K., **Blessing, R. B.**, Tasuji, T., McGlone, M., Stearns, L. N., L
 
 **Blessing, R. B.** (2022). Measuring, Mapping, and Managing Flood Risk. 2022 Texas Water Conservation Association Annual Convention, Fort Worth, TX.
 
-Mobley, W.`*`, Sebastian, A., & **Blessing, R. B.** (2019). Random Forest Classification for Flood Hazard Mapping at Large Spatial Scales. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
+Mobley, W.\*, Sebastian, A., & **Blessing, R. B.** (2019). Random Forest Classification for Flood Hazard Mapping at Large Spatial Scales. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
 
-**Blessing, R. B.**`*`, Sebastian, A., Highfield, W., & Brody, S. D. (2018). Measuring, Mapping and Managing Urban Flood Risk: A Pilot Program in Southeast Texas. 2018 American Geophysical Union: Fall Meeting, Washington, DC.
+**Blessing, R. B.**\*, Sebastian, A., Highfield, W., & Brody, S. D. (2018). Measuring, Mapping and Managing Urban Flood Risk: A Pilot Program in Southeast Texas. 2018 American Geophysical Union: Fall Meeting, Washington, DC.
 
-Brody, S. D&ast;., **Blessing, R. B.**`*`, & Highfield, W. E.`*` (2017). Risk, Mitigation, and Planning: Lessons from Flooding in the Houston Area. 2017 Association of State Floodplain Managers Annual National conference, Kansas City, MO.
+Brody, S. D&ast;., **Blessing, R. B.**\*, & Highfield, W. E.\* (2017). Risk, Mitigation, and Planning: Lessons from Flooding in the Houston Area. 2017 Association of State Floodplain Managers Annual National conference, Kansas City, MO.
 
-Sebastian, A.`*`, **Blessing, R. B.**, & Brody, S. D. (2016). Flood Risk Delineation in the U.S.: How much loss are we capturing? 2016 SSPEED Avoiding Disasters Conference: How to Reduce Impacts from the Next Big Storm, Houston, TX.
+Sebastian, A.\*, **Blessing, R. B.**, & Brody, S. D. (2016). Flood Risk Delineation in the U.S.: How much loss are we capturing? 2016 SSPEED Avoiding Disasters Conference: How to Reduce Impacts from the Next Big Storm, Houston, TX.
 
 Brody, S. D.&ast;, & **Blessing, R. B.** (2015). Examining Flood Risk, Loss, and Management for the Clear Creek Watershed in Southeast Texas: Lessons Learned for Developing Resilient Coastal Communities. 2015 World Environmental & Water Resources Congress, “Floods, Droughts, and Ecosystems: Managing Our Resources Despite Growing Demand and Diminishing Funds,” Austin, TX.
 
 Sebastian, A.&ast;, Brody, S. D., **Blessing, R. B.**, & Bedient, P. B. (2014). Evaluating the 100-year floodplain as an indicator of flood loss. 2014 World Environmental and Water Resources Congress, Portland, OR.
 
-Brody, S. D., **Blessing, R. B.**, & Sebastian, A.`*` (2013). Predicting Land Use/Land Cover Change in Coastal Texas: Assessing Hazard Resiliency in Freeport, TX. 2013 APA Texas Chapter State Planning Conference, Galveston, TX.
+Brody, S. D., **Blessing, R. B.**, & Sebastian, A.\* (2013). Predicting Land Use/Land Cover Change in Coastal Texas: Assessing Hazard Resiliency in Freeport, TX. 2013 APA Texas Chapter State Planning Conference, Galveston, TX.
 
-**Blessing, R. B.**`*`, Brody, S. D., Sebastian, A., & Bedient, P. B. (2012). Identifying Flood Risk and Vulnerability: Assessment of the Clear Creek Watershed. 2012 Severe Storm Prediction, Education, and Evacuation from Disasters Center Conference: Gulf Coast Hurricanes: Mitigation and Response, Houston, TX.
+**Blessing, R. B.**\*, Brody, S. D., Sebastian, A., & Bedient, P. B. (2012). Identifying Flood Risk and Vulnerability: Assessment of the Clear Creek Watershed. 2012 Severe Storm Prediction, Education, and Evacuation from Disasters Center Conference: Gulf Coast Hurricanes: Mitigation and Response, Houston, TX.
 
 ### Posters
 
